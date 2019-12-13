@@ -1,0 +1,174 @@
+<?php // Array con refranes
+	$a[1] = "bulbasaur";
+	$a[2] = "ivysaur";
+	$a[3] = "venusaur";
+	$a[4] = "charmander";
+	$a[5] = "charmeleon";
+	$a[6] = "charizard";
+	$a[7] = "squirtle";
+	$a[8] = "wartortle";
+	$a[9] = "blastoise";
+	$a[10] = "caterpie";
+	$a[11] = "metapod";
+	$a[12] = "butterfree";
+	$a[13] = "weedle";
+	$a[14] = "kakuna";
+	$a[15] = "beedrill";
+	$a[16] = "pidgey";
+	$a[17] = "pidgeotto";
+	$a[18] = "pidgeot";
+	$a[19] = "rattata";
+	$a[20] = "raticate";
+	$a[21] = "spearow";
+	$a[22] = "fearow";
+	$a[23] = "ekans";
+	$a[24] = "arbok";
+	$a[25] = "pikachu";
+	$a[26] = "raichu";
+	$a[27] = "sandshrew";
+	$a[28] = "sandslash";
+	$a[29] = "nidoran-f";
+	$a[30] = "nidorina";
+	$a[31] = "nidoqueen";
+	$a[32] = "nidoran-m";
+	$a[33] = "nidorino";
+	$a[34] = "nidoking";
+	$a[35] = "clefairy";
+	$a[36] = "clefable";
+	$a[37] = "vulpix";
+	$a[38] = "ninetales";
+	$a[39] = "jigglypuff";
+	$a[40] = "wigglytuff";
+	$a[41] = "zubat";
+	$a[42] = "golbat";
+	$a[43] = "oddish";
+	$a[44] = "gloom";
+	$a[45] = "vileplume";
+	$a[46] = "paras";
+	$a[47] = "parasect";
+	$a[48] = "venonat";
+	$a[49] = "venomoth";
+	$a[50] = "diglett";
+	$a[51] = "dugtrio";
+	$a[52] = "meowth";
+	$a[53] = "persian";
+	$a[54] = "psyduck";
+	$a[55] = "golduck";
+	$a[56] = "mankey";
+	$a[57] = "primeape";
+	$a[58] = "growlithe";
+	$a[59] = "arcanine";
+	$a[60] = "poliwag";
+	$a[61] = "poliwhirl";
+	$a[62] = "poliwrath";
+	$a[63] = "abra";
+	$a[64] = "kadabra";
+	$a[65] = "alakazam";
+	$a[66] = "machop";
+	$a[67] = "machoke";
+	$a[68] = "machamp";
+	$a[69] = "bellsprout";
+	$a[70] = "weepinbell";
+	$a[71] = "victreebel";
+	$a[72] = "tentacool";
+	$a[73] = "tentacruel";
+	$a[74] = "geodude";
+	$a[75] = "graveler";
+	$a[76] = "golem";
+	$a[77] = "ponyta";
+	$a[78] = "rapidash";
+	$a[79] = "slowpoke";
+	$a[80] = "slowbro";
+	$a[81] = "magnemite";
+	$a[82] = "magneton";
+	$a[83] = "farfetch'd";
+	$a[84] = "doduo";
+	$a[85] = "dodrio";
+	$a[86] = "seel";
+	$a[87] = "dewgong";
+	$a[88] = "grimer";
+	$a[89] = "muk";
+	$a[90] = "shellder";
+	$a[91] = "cloyster";
+	$a[92] = "gastly";
+	$a[93] = "haunter";
+	$a[94] = "gengar";
+	$a[95] = "onix";
+	$a[96] = "drowzee";
+	$a[97] = "hypno";
+	$a[98] = "krabby";
+	$a[99] = "kingler";
+	$a[100] = "voltorb";
+	$a[101] = "electrode";
+	$a[102] = "exeggcute";
+	$a[103] = "exeggutor";
+	$a[104] = "cubone";
+	$a[105] = "marowak";
+	$a[106] = "hitmonlee";
+	$a[107] = "hitmonchan";
+	$a[108] = "lickitung";
+	$a[109] = "koffing";
+	$a[110] = "weezing";
+	$a[111] = "rhyhorn";
+	$a[112] = "rhydon";
+	$a[113] = "chansey";
+	$a[114] = "tangela";
+	$a[115] = "kangaskhan";
+	$a[116] = "horsea";
+	$a[117] = "seadra";
+	$a[118] = "goldeen";
+	$a[119] = "seaking";
+	$a[120] = "staryu";
+	$a[121] = "starmie";
+	$a[122] = "mr. mime";
+	$a[123] = "scyther";
+	$a[124] = "jynx";
+	$a[125] = "electabuzz";
+	$a[126] = "magmar";
+	$a[127] = "pinsir";
+	$a[128] = "tauros";
+	$a[129] = "magikarp";
+	$a[130] = "gyarados";
+	$a[131] = "lapras";
+	$a[132] = "ditto";
+	$a[133] = "eevee";
+	$a[134] = "vaporeon";
+	$a[135] = "jolteon";
+	$a[136] = "flareon";
+	$a[137] = "porygon";
+	$a[138] = "omanyte";
+	$a[139] = "omastar";
+	$a[140] = "kabuto";
+	$a[141] = "kabutops";
+	$a[142] = "aerodactyl";
+	$a[143] = "snorlax";
+	$a[144] = "articuno";
+	$a[145] = "zapdos";
+	$a[146] = "moltres";
+	$a[147] = "dratini";
+	$a[148] = "dragonair";
+	$a[149] = "dragonite";
+	$a[150] = "mewtwo";
+	$a[151] = "mew";
+	// Parámetro para buscar
+	$q = $_REQUEST["q"];
+	$resultado = "";
+	// Comprobación
+	if ($q !== "") {
+		$q = strtolower($q);
+		$longitud=strlen($q);
+		foreach($a as $pokemon) {       
+			if (stristr($q, substr($pokemon, 0, $longitud))) {           
+				if ($resultado === "") {
+					if ($pokemon == "mr. mime") {
+						$pokemon = "mr-mime";
+					}
+				$resultado = $pokemon;
+				}
+			}
+		}
+	}
+
+	// Mensaje si no hay resultados
+	echo $resultado === "" ? "no existen coincidencias " : $resultado;
+?>
